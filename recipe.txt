@@ -1,5 +1,6 @@
 Banana cake recipe
 
 1) Plant banana tree
-2) ....
+2) Make a cake
+2.1) Let it cool down
 3) Profit
